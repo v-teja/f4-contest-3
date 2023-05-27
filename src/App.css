@@ -2,7 +2,7 @@
   background-color: black;
   color: white;
   margin-top: 0px;
-  font-family: sans-serif;
+  font-family: 'Times New Roman', serif
 }
 
 body{
@@ -49,6 +49,7 @@ ul{
   justify-content: space-between;
   padding: 0px;
   margin: 0px;
+  font-size: medium;
 }
 ul div{
   display: flex;
@@ -59,7 +60,7 @@ ul div{
 
 li {
   list-style-type: none;
-  padding: 5px;
+  padding: 10px;
 }
 
 li a{
